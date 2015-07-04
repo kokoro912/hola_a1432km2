@@ -22,7 +22,36 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+#HolaA1432km2 の使用例
+
+#生年月日から年齢を計算し、出力
+HolaA1432km2.calcYourAge("1978/09/12")
+
+#実行結果
+Your age is 36 now.
+
+#身長、体重からBMIを計算し、出力
+HolaA1432km2.calcYourBMI(1.7, 70)
+
+#実行結果
+Your BMI is      24.22
+
+#指定した個数の素数を出力
+HolaA1432km2.calcPrimeNumber(10)
+
+#実行結果
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+10 prime numbers are listed.
+
 
 ## Development
 
