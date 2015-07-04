@@ -22,24 +22,35 @@ Or install it yourself as:
 
 ## Usage
 
-#HolaA1432km2 の使用例
+###HolaA1432km2 の使用例
 
-#生年月日から年齢を計算し、出力
+生年月日から年齢を計算し、出力
+```ruby
 HolaA1432km2.calcYourAge("1978/09/12")
+```
 
-#実行結果
+実行結果
+```ruby
 Your age is 36 now.
+```
 
-#身長、体重からBMIを計算し、出力
+身長、体重からBMIを計算し、出力
+```ruby
 HolaA1432km2.calcYourBMI(1.7, 70)
+```
 
-#実行結果
+実行結果
+```ruby
 Your BMI is      24.22
+```
 
-#指定した個数の素数を出力
+指定した個数の素数を出力
+```ruby
 HolaA1432km2.calcPrimeNumber(10)
+```
 
-#実行結果
+実行結果
+```ruby
 2
 3
 5
@@ -51,6 +62,7 @@ HolaA1432km2.calcPrimeNumber(10)
 23
 29
 10 prime numbers are listed.
+```
 
 
 ## Development
